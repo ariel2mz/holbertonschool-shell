@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent find ./ -user guillaume -name hello 
+chown --from=guillaume vincent 
