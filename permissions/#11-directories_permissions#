@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./ -type d chmod -R  444
+chmod -R 444  ./ -type
